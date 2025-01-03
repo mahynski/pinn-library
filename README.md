@@ -2,7 +2,7 @@ PINN Library
 ---
 <img src="logo_no.png" align="right" width=200 />
 
-This repository is an organized set of examples of physically informed neural networks (PINNs).  A nice review of PINNs can be found [here](https://www.nature.com/articles/s42254-021-00314-5) and Maziar Raissi has a very nice introduction hosted [here](https://maziarraissi.github.io/PINNs/).  The [CRUNCH group](https://sites.brown.edu/crunch-group/) at Brown University has a nice [YouTube channel](https://www.youtube.com/@CrunchGroup) which organizes routine lectures on the subject, and is also a nice reference.
+This repository is an organized set of examples of physically informed neural networks (PINNs).  A review of PINNs can be found [here](https://www.nature.com/articles/s42254-021-00314-5) and Maziar Raissi has a very nice introduction hosted [here](https://maziarraissi.github.io/PINNs/).  The [CRUNCH group](https://sites.brown.edu/crunch-group/) at Brown University has a nice [YouTube channel](https://www.youtube.com/@CrunchGroup) which organizes routine lectures on the subject, and is also a good reference.
 
 This repository is organized into (sub)folders with examples illustrating the development of PINNs for different use cases.  These are mostly standalone so they may be copied and modified without much, if any, dependence on the rest of this repository.
 
