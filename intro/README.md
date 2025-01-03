@@ -1,0 +1,1 @@
+The examples here are largely taken from the [examples](https://github.com/maziarraissi/PINNs/tree/master/main ) which accompany the original papers which introduced the notion of PINNs.  These have been updated and modified slightly, but credit goes to the original author: @maziarraissi.
