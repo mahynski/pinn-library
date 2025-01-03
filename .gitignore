@@ -1,0 +1,8 @@
+__pycache__
+*.env
+*.*_env
+*.so
+*.o
+*.Python
+*.cache
+/**/.ipynb_checkpoints/
